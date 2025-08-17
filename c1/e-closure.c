@@ -45,7 +45,7 @@ int main(){
         scanf("%d%d",&eclose[i][0],&eclose[i][1]);
     }
 
-    for(int i=0 ; i<n_states ; i++){
+     for(int i=0 ; i<n_states ; i++){
         printf("q%d : { ",i);
         find_closure(i);
         printf("\b\b }\n");
