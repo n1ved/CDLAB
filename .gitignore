@@ -1,3 +1,4 @@
 *.out
 *.algo*
 *.dryrun
+lex.yy.c
