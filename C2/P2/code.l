@@ -2,7 +2,7 @@
     #include <stdio.h>
     #include <string.h>
     char name[20];
-    char first[4];
+    char first[5];
 %}
 
 %%

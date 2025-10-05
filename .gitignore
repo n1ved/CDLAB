@@ -2,3 +2,5 @@
 *.algo*
 *.dryrun
 lex.yy.c
+*.tab.c
+*.tab.h
