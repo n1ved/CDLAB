@@ -31,7 +31,7 @@ void find_closure(int state){
             if(!isvisited(eclose[i][1])){
                 find_closure(eclose[i][1]);
             }
-        }  
+        }
     }
 }
 
@@ -52,4 +52,3 @@ int main(){
         writeptr=0;
     }
 }
-
