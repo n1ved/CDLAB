@@ -5,3 +5,5 @@
   - Q2 : Calculator program using lex and yacc
 #### Batch 2
   - Q1 : Shift reduce parser
+  - Q2 : Intermediate Code Generator
+    - Should support paranthesis
